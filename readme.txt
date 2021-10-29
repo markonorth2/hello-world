@@ -1,6 +1,4 @@
-I love Chloe 
-
-I love Chris too 
+I love Chloe only
 
 john 
 
